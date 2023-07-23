@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "tutorial-in-github"
+  description: The best tutorial component
 spec:
   type: service
   owner: user:guest
