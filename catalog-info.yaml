@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "tutorial-in-github"
+  name: "tutorial-in-github-aaaa"
 spec:
-  type: service
+  type: api
   owner: user:guest
   lifecycle: experimental
