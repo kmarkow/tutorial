@@ -3,6 +3,6 @@ kind: Component
 metadata:
   name: "tutorial-in-github"
 spec:
-  type: api
+  type: service
   owner: user:guest
   lifecycle: experimental
