@@ -3,6 +3,11 @@ kind: Component
 metadata:
   name: "tutorial-in-github"
   description: The best tutorial component
+  tags:
+   - kamil
+   - component
+   - guest
+   - tutorial
 spec:
   type: service
   owner: user:guest
