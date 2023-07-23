@@ -1,0 +1,9 @@
+site_name: 'example-docs'
+
+nav:
+  - Home: index.md
+  - Another: another.md
+  - Feedback: feedback.md
+
+plugins:
+  - techdocs-core
