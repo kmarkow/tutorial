@@ -4,5 +4,5 @@ metadata:
   name: "tutorial-in-github"
 spec:
   type: service
-  owner: user:guest
+  owner: user:kmarkow
   lifecycle: experimental
