@@ -8,6 +8,8 @@ metadata:
    - component
    - guest
    - tutorial
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:guest
