@@ -10,6 +10,7 @@ metadata:
    - tutorial
   annotations:
     backstage.io/techdocs-ref: dir:.
+    pagerduty.com/service-id: pd-test-service-id
 spec:
   type: service
   owner: user:kamil
