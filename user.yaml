@@ -1,10 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: kamil
+  name: kmarkow
+  annotations:
+    'github.com/user-login': kmarkow
+    'ghe.spotify.net/user-login': kamilm
 spec:
   profile:
     displayName: Kamil Markow
-    email: jenny-doe@example.com
-    picture: https://example.com/staff/jenny-with-party-hat.jpeg
-  memberOf: [team-b, employees]
+    email: kamilm@spotify.com
+  memberOf: [demo-team, admin-group, imaginary-goats, rbac-admins, toast-infra]
