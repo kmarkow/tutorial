@@ -12,6 +12,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     pagerduty.com/service-id: pd-test-service-id
     sonarqube.org/project-key: tutorial
+    datadoghq.com/service-id: tutorial
 spec:
   type: service
   owner: user:kamil
