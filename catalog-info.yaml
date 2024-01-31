@@ -13,6 +13,7 @@ metadata:
     pagerduty.com/service-id: pd-test-service-id
     sonarqube.org/project-key: tutorial
     datadoghq.com/service-id: tutorial
+    newrelic.com/tag: backstage:test-tag
 spec:
   type: service
   owner: user:kamil
