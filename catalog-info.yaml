@@ -15,6 +15,7 @@ metadata:
     datadoghq.com/service-id: tutorial
     newrelic.com/tag: backstage:test-tag
     newrelic.com/account-id: "4338873"
+    newrelic.com/entity-guid: NDMzODg3M3xFWFR8U0VSVklDRV9MRVZFTHw1Mjk2MjA
 spec:
   type: service
   owner: user:kamil
