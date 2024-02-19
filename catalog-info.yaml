@@ -10,7 +10,7 @@ metadata:
    - tutorial
   annotations:
     backstage.io/techdocs-ref: dir:.
-    pagerduty.com/service-id: pd-test-service-id
+    pagerduty.com/service-id: cs-bot-api
     sonarqube.org/project-key: tutorial
     datadoghq.com/service-id: tutorial
     newrelic.com/tag: backstage:test-tag
