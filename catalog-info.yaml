@@ -17,7 +17,7 @@ metadata:
     newrelic.com/account-id: "4338873"
     newrelic.com/entity-guid: NDMzODg3M3xFWFR8U0VSVklDRV9MRVZFTHw1Mjk2MjA
     atlassian.net/jql: assignee=712020:25af6c33-34a3-4206-ba35-3e47a5bf6dcd
-    example.com/todo: "1"
+    customfact.com/todo: '1'
 spec:
   type: service
   owner: user:kamil
