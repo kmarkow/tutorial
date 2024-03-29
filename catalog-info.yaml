@@ -8,6 +8,7 @@ metadata:
    - component
    - guest
    - tutorial
+   - local
   annotations:
     backstage.io/techdocs-ref: dir:.
     pagerduty.com/service-id: P3IKHYN
