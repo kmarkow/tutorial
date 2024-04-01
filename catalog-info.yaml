@@ -21,5 +21,5 @@ metadata:
     customfact.com/todo: '1'
 spec:
   type: service
-  owner: user:kamilm
+  owner: user:kmarkow
   lifecycle: experimental
