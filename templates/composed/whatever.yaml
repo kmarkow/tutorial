@@ -1,0 +1,14 @@
+apiVersion: scaffolder.backstage.io/v1beta3
+kind: Template
+metadata:
+  name: v1beta3-demo-whatever
+  title: Kamil template composed
+spec:
+  owner: backstage/techdocs-core
+  type: service
+  parameters:
+    $yaml: https://github.com/kmarkow/tutorial/blob/master/templates/composed/kamil-parameters.yaml
+
+  steps:
+    - name: In the steps log
+      action: debug:log
