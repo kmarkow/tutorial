@@ -1,0 +1,21 @@
+title: Business and Maintainers information
+required:
+  - owner
+properties:
+  owner:
+    title: Owner
+    type: string
+    description: Owner of the component
+    ui:field: OwnerPicker
+    ui:options:
+      allowedKinds:
+        - Group
+  system:
+    title: System of this component
+    type: string
+    description: name of the system to which this application belongs.
+    ui:field: EntityPicker
+    ui:options:
+      allowedKinds:
+        - System
+      defaultKind: System
