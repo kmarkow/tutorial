@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "zz-tutorial-in-github"
+  description: The best tutorial component
+  tags:
+   - kamil
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:kmarkow
+  lifecycle: unknown
