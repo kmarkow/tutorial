@@ -19,7 +19,6 @@ metadata:
     newrelic.com/entity-guid: NDMzODg3M3xFWFR8U0VSVklDRV9MRVZFTHw1Mjk2MjA
     atlassian.net/jql: assignee=712020:25af6c33-34a3-4206-ba35-3e47a5bf6dcd
     customfact.com/todo: '1'
-    backstage.io/source-location: url:https://github.com/kmarkow/tutorial/
 spec:
   type: service
   owner: user:kmarkow
