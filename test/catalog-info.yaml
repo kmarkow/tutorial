@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-rbac
+  description: test
+  annotations:
+    github.com/project-slug: undefined/undefined
+    backstage.io/techdocs-ref: dir:./techDocs
+  tags:
+    - owner-restricted
+    
+spec:
+  type: service
+  lifecycle: emerging
+  owner: user:default/kmarkow
