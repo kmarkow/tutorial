@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: API
 metadata:
   name: "yy-tutorial-in-github"
   description: The best tutorial component
@@ -8,6 +8,6 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: service
+  type: openapi
   owner: user:kmarkow
   lifecycle: unknown
