@@ -11,3 +11,4 @@ spec:
   type: openapi
   owner: user:kmarkow
   lifecycle: unknown
+  definition: test
